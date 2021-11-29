@@ -6,7 +6,7 @@
 <body>
 	<outline text="Exemplos de fontes">		
 		<outline text="Novas tecnolóxicas">
-		 	<outline text="Proxecto trasno" htmlUrl="http://trasno.net/" xmlUrl="http://www.trasno.net/feed.php"/>
+		 	<outline text="Proxecto trasno" htmlUrl="http://trasno.gal/" xmlUrl="http://www.trasno.gal/feed/"/>
 			<outline text="Código Cero" htmlUrl="http://codigocero.com/"  xmlUrl="http://codigocero.com/spip.php?page=backend" />
 		</outline>
 	</outline>
@@ -16,7 +16,7 @@
 			<outline text="Ars Technica" htmlUrl="https://arstechnica.com" xmlUrl="http://feeds.arstechnica.com/arstechnica/index"/>
 			<outline text="Slashdot" htmlUrl="https://slashdot.org"  xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" />
 			<outline text="BBC" htmlUrl="http://www.bbc.com/news" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int"/>
-			<outline text="Science" htmlUrl="https://www.sciencenews.org" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss"/>
+			<outline text="Science" htmlUrl="https://www.sciencenews.org" xmlUrl="https://www.sciencenews.org/feed/"/>
 		</outline>
 		<outline text="Open Source">		<!-- translate this title for localized feed list -->
 			<outline text="Liferea Blog" htmlUrl="https://lzone.de/liferea/blog/" xmlUrl="http://feeds.feedburner.com/LifereaBlog" />
@@ -24,7 +24,8 @@
 		</outline>
 		<outline text="Podcasts &amp; Music">		<!-- translate this title for localized feed list -->
 			<outline text="EscapePod" htmlUrl="http://escapepod.org" xmlUrl="http://escapepod.org/feed/atom/"/>
-			<outline text="Free Music Archive" htmlUrl="https://freemusicarchive.org" xmlUrl="https://freemusicarchive.org/recent.atom"/>
+			<!-- New Free Music Archive RSS or Atom feed not found -->
+			<!-- <outline text="Free Music Archive" htmlUrl="https://freemusicarchive.org" xmlUrl="https://freemusicarchive.org/recent.atom"/> -->
 			<outline text="Gorilla vs. Bear" htmlUrl="http://www.gorillavsbear.net" xmlUrl="http://www.gorillavsbear.net/category/mp3/feed/"/>
 		</outline>
 		<outline text="Comics">
